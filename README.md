@@ -147,6 +147,7 @@ John Doe   | johndoe@example.com
 >[![Paschal Ogba](./images/myphoto.png 'My Github avater' )](https://github.com)
 
 <br/>
+<hr>
 
 
 >my hero of all time is
